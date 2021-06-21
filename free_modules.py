@@ -63,4 +63,4 @@ def get_free_modules(module):
         return """Ошибка: Файл со структурой недосягаем.
         Возможно сервер недоступен,
         либо отсутствует файл -
-        structure_sed.dat в корне adm_ilo."""
+        structure_sed.dat в корне каталога."""
